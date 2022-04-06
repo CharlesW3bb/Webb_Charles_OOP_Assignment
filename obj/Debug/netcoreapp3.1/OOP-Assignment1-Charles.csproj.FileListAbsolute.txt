@@ -1,0 +1,28 @@
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.exe
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.deps.json
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.runtimeconfig.json
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.runtimeconfig.dev.json
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.dll
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.pdb
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.csproj.AssemblyReference.cache
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.AssemblyInfoInputs.cache
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.AssemblyInfo.cs
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.csproj.CoreCompileInputs.cache
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.dll
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.pdb
+C:\Users\BWA14\source\repos\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.genruntimeconfig.cache
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.exe
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.deps.json
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.runtimeconfig.json
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.runtimeconfig.dev.json
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.dll
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\bin\Debug\netcoreapp3.1\OOP-Assignment1-Charles.pdb
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.AssemblyInfo.cs
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.dll
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.pdb
+C:\Users\samue\Documents\School Work\OOP Assessment 1\Webb_Charles_OOP_Assignment\OOP-Assignment1-Charles\OOP-Assignment1-Charles\obj\Debug\netcoreapp3.1\OOP-Assignment1-Charles.genruntimeconfig.cache
